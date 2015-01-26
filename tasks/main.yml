@@ -1,0 +1,4 @@
+---
+- name: Hello world!
+  command: /bin/echo 'Hello world!'
+
